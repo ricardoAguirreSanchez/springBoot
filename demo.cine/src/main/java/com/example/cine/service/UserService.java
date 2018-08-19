@@ -2,7 +2,7 @@ package com.example.cine.service;
 
 import java.util.List;
 
-import com.example.cine.modelo.User;
+import com.example.cine.entity.User;
 
 
 public interface UserService {
